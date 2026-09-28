@@ -1,0 +1,1278 @@
+Year,item,quantity,category
+1961,Apples,1617474,food
+1962,Apples,1727546,food
+1963,Apples,1523826,food
+1964,Apples,1745471,food
+1965,Apples,2014815,food
+1966,Apples,1937291,food
+1967,Apples,2018076,food
+1968,Apples,2127975,food
+1969,Apples,2326821,food
+1970,Apples,2185612,food
+1971,Apples,2371070,food
+1972,Apples,2737306,food
+1973,Apples,2518098,food
+1974,Apples,2860389,food
+1975,Apples,2821224,food
+1976,Apples,3020950,food
+1977,Apples,3103014,food
+1978,Apples,3034357,food
+1979,Apples,3307725,food
+1980,Apples,3377069,food
+1981,Apples,3805631,food
+1982,Apples,3646428,food
+1983,Apples,3878614,food
+1984,Apples,3882178,food
+1985,Apples,3752316,food
+1986,Apples,3981180,food
+1987,Apples,4085953,food
+1988,Apples,3980935,food
+1989,Apples,4045759,food
+1990,Apples,4340121,food
+1991,Apples,4706847,food
+1992,Apples,4780857,food
+1993,Apples,5471269,food
+1994,Apples,5674438,food
+1995,Apples,6099631,food
+1996,Apples,6084380,food
+1997,Apples,6399640.14,food
+1998,Apples,6250722.66,food
+1999,Apples,6501871.529999999,food
+2000,Apples,6650568.16,food
+2001,Apples,6835493.0200000005,food
+2002,Apples,7165008.949999999,food
+2003,Apples,8033325.9,food
+2004,Apples,8442053.87,food
+2005,Apples,9308059.01,food
+2006,Apples,9216106.3,food
+2007,Apples,10345809.08,food
+2008,Apples,9906237.66,food
+2009,Apples,10174041.41,food
+2010,Apples,10909631.21,food
+2011,Apples,10363936.8,food
+2012,Apples,10542071.12,food
+2013,Apples,10920120.52,food
+2014,Apples,11028834.21,food
+2015,Apples,11852880.93,food
+2016,Apples,11609737.22,food
+2017,Apples,12096103.2,food
+2018,Apples,10775130.85,food
+2019,Apples,11466963.13,food
+2020,Apples,10933974.48,food
+2021,Apples,11511523.84,food
+2022,Apples,10906698.36,food
+2023,Apples,10174997.02,food
+2024,Apples,10667953.39,food
+1961,Barley,7196730,food
+1962,Barley,6615240,food
+1963,Barley,5705873,food
+1964,Barley,7993294,food
+1965,Barley,8090162,food
+1966,Barley,6447933,food
+1967,Barley,7244568,food
+1968,Barley,6406683,food
+1969,Barley,7151403,food
+1970,Barley,10518952,food
+1971,Barley,10989443,food
+1972,Barley,13900394,food
+1973,Barley,12405647,food
+1974,Barley,11591036,food
+1975,Barley,12486423,food
+1976,Barley,13783852,food
+1977,Barley,13020186,food
+1978,Barley,14456850,food
+1979,Barley,13928292,food
+1980,Barley,16082813,food
+1981,Barley,19605859,food
+1982,Barley,18211680,food
+1983,Barley,17605966,food
+1984,Barley,22980601,food
+1985,Barley,21819421,food
+1986,Barley,26110695,food
+1987,Barley,22113724,food
+1988,Barley,20904021,food
+1989,Barley,21558592,food
+1990,Barley,21072801,food
+1991,Barley,22866254,food
+1992,Barley,23938418,food
+1993,Barley,17929525,food
+1994,Barley,22552150,food
+1995,Barley,20945793,food
+1996,Barley,21749285,food
+1997,Barley,21570400,food
+1998,Barley,18169484,food
+1999,Barley,21726781.9,food
+2000,Barley,23899250.22,food
+2001,Barley,19757309.53,food
+2002,Barley,22727962.98,food
+2003,Barley,21878877.59,food
+2004,Barley,23053464.81,food
+2005,Barley,25871203.59,food
+2006,Barley,24045748.77,food
+2007,Barley,23215628.869999997,food
+2008,Barley,27309258.39,food
+2009,Barley,25688329.44,food
+2010,Barley,26670096.75,food
+2011,Barley,25445415.5,food
+2012,Barley,28493225.69,food
+2013,Barley,31137013.49,food
+2014,Barley,33518800.3,food
+2015,Barley,38350695.379999995,food
+2016,Barley,35153587.870000005,food
+2017,Barley,39617689.69,food
+2018,Barley,36591277.57,food
+2019,Barley,32889882.12,food
+2020,Barley,38013659.32,food
+2021,Barley,44020118.75,food
+2022,Barley,33974064.61,food
+2023,Barley,40342767.650000006,food
+2024,Barley,37508842.85,food
+1961,Beef,199113,food
+1962,Beef,206858,food
+1963,Beef,244657,food
+1964,Beef,205787,food
+1965,Beef,208078,food
+1966,Beef,236568,food
+1967,Beef,263714,food
+1968,Beef,265465,food
+1969,Beef,276136,food
+1970,Beef,283375,food
+1971,Beef,265906,food
+1972,Beef,270386,food
+1973,Beef,282417,food
+1974,Beef,290852,food
+1975,Beef,295929,food
+1976,Beef,380903,food
+1977,Beef,421801,food
+1978,Beef,431110,food
+1979,Beef,441423,food
+1980,Beef,369642,food
+1981,Beef,382007,food
+1982,Beef,362236,food
+1983,Beef,373110,food
+1984,Beef,384175,food
+1985,Beef,383152,food
+1986,Beef,378035,food
+1987,Beef,374474,food
+1988,Beef,424442,food
+1989,Beef,401324,food
+1990,Beef,388779,food
+1991,Beef,462525,food
+1992,Beef,518362,food
+1993,Beef,557952,food
+1994,Beef,553292,food
+1995,Beef,563080,food
+1996,Beef,465757.93,food
+1997,Beef,439805.01,food
+1998,Beef,410119.04,food
+1999,Beef,407633.67,food
+2000,Beef,432586.96,food
+2001,Beef,385680.42,food
+2002,Beef,438813.78,food
+2003,Beef,486320.87,food
+2004,Beef,539648.54,food
+2005,Beef,566125.4900000001,food
+2006,Beef,578899.05,food
+2007,Beef,608120.51,food
+2008,Beef,612056.48,food
+2009,Beef,563949.52,food
+2010,Beef,507346.85,food
+2011,Beef,530419.29,food
+2012,Beef,541124.14,food
+2013,Beef,522110.41,food
+2014,Beef,538569.63,food
+2015,Beef,518699.74,food
+2016,Beef,507414.14,food
+2017,Beef,523538.31,food
+2018,Beef,543006.86,food
+2019,Beef,556708.39,food
+2020,Beef,530149,food
+2021,Beef,518546.22,food
+2022,Beef,530587.5700000001,food
+2023,Beef,515452.36,food
+2024,Beef,499271.33,food
+1961,Chicken,281446,food
+1962,Chicken,301594,food
+1963,Chicken,286786,food
+1964,Chicken,321134,food
+1965,Chicken,340521,food
+1966,Chicken,344394,food
+1967,Chicken,366212,food
+1968,Chicken,410988,food
+1969,Chicken,416872,food
+1970,Chicken,493146,food
+1971,Chicken,573362,food
+1972,Chicken,577273,food
+1973,Chicken,590777,food
+1974,Chicken,643887,food
+1975,Chicken,688550,food
+1976,Chicken,805759,food
+1977,Chicken,951896,food
+1978,Chicken,958360,food
+1979,Chicken,1140082,food
+1980,Chicken,1400709,food
+1981,Chicken,1783540,food
+1982,Chicken,1693123,food
+1983,Chicken,1655573,food
+1984,Chicken,1562249,food
+1985,Chicken,1533572,food
+1986,Chicken,1663027,food
+1987,Chicken,1797636,food
+1988,Chicken,1950272,food
+1989,Chicken,2070165,food
+1990,Chicken,2325713,food
+1991,Chicken,2486320,food
+1992,Chicken,2859653,food
+1993,Chicken,3390414,food
+1994,Chicken,4015891.04,food
+1995,Chicken,4875587.08,food
+1996,Chicken,5764235,food
+1997,Chicken,5890113.86,food
+1998,Chicken,6408737.07,food
+1999,Chicken,6790166.16,food
+2000,Chicken,7458553.25,food
+2001,Chicken,8161324.180000001,food
+2002,Chicken,8107615.180000001,food
+2003,Chicken,8615729.219999999,food
+2004,Chicken,8248589.6,food
+2005,Chicken,9324324.25,food
+2006,Chicken,9457385.44,food
+2007,Chicken,10887202.93,food
+2008,Chicken,12126444.42,food
+2009,Chicken,12488648.13,food
+2010,Chicken,13480778.55,food
+2011,Chicken,14423518.3,food
+2012,Chicken,14660725.62,food
+2013,Chicken,14819113.69,food
+2014,Chicken,15233320.59,food
+2015,Chicken,14950483.760000002,food
+2016,Chicken,15488437.5,food
+2017,Chicken,16249818.32,food
+2018,Chicken,16725981.95,food
+2019,Chicken,16981626.04,food
+2020,Chicken,16729303.06,food
+2021,Chicken,17359915.400000002,food
+2022,Chicken,18186987.56,food
+2023,Chicken,17981687.919999998,food
+2024,Chicken,18358923.97,food
+1961,Dairy products,2563698,food
+1962,Dairy products,2686747,food
+1963,Dairy products,2912515,food
+1964,Dairy products,3132988,food
+1965,Dairy products,3173000,food
+1966,Dairy products,3245378,food
+1967,Dairy products,3498501,food
+1968,Dairy products,3712822,food
+1969,Dairy products,3725908,food
+1970,Dairy products,4235607,food
+1971,Dairy products,4576317,food
+1972,Dairy products,4424303,food
+1973,Dairy products,5567576,food
+1974,Dairy products,5992274,food
+1975,Dairy products,5340835,food
+1976,Dairy products,6266425,food
+1977,Dairy products,7080326,food
+1978,Dairy products,7438112,food
+1979,Dairy products,8271724,food
+1980,Dairy products,8603560,food
+1981,Dairy products,9117961,food
+1982,Dairy products,9241574,food
+1983,Dairy products,9275805,food
+1984,Dairy products,10029449,food
+1985,Dairy products,10339968,food
+1986,Dairy products,10396316,food
+1987,Dairy products,11100290,food
+1988,Dairy products,11751032,food
+1989,Dairy products,11141800,food
+1990,Dairy products,10457063,food
+1991,Dairy products,11613663,food
+1992,Dairy products,12800352,food
+1993,Dairy products,13146526,food
+1994,Dairy products,14078222.59,food
+1995,Dairy products,14891739.49,food
+1996,Dairy products,15068729.63,food
+1997,Dairy products,16068102.37,food
+1998,Dairy products,16585498.97,food
+1999,Dairy products,17149957.72,food
+2000,Dairy products,18419239.53,food
+2001,Dairy products,18293938.28,food
+2002,Dairy products,18510327.76,food
+2003,Dairy products,19979021.05,food
+2004,Dairy products,21793881.15,food
+2005,Dairy products,22542900.55,food
+2006,Dairy products,24107005.62,food
+2007,Dairy products,25371309.12,food
+2008,Dairy products,26158799.35,food
+2009,Dairy products,27161226.73,food
+2010,Dairy products,28615833.5,food
+2011,Dairy products,29765473.92,food
+2012,Dairy products,31652919.24,food
+2013,Dairy products,32183803.29,food
+2014,Dairy products,33645959.29,food
+2015,Dairy products,34016276.44,food
+2016,Dairy products,34342025.56,food
+2017,Dairy products,35089376.18,food
+2018,Dairy products,35225036.55,food
+2019,Dairy products,35975089.94,food
+2020,Dairy products,36093522.47,food
+2021,Dairy products,36987313.44,food
+2022,Dairy products,36406796.36,food
+2023,Dairy products,36383404.34,food
+2024,Dairy products,36724978.71,food
+1962,Fertilizer_K,4501576.564,fertilizer
+1963,Fertilizer_K,4744269.31,fertilizer
+1964,Fertilizer_K,5149587.569,fertilizer
+1965,Fertilizer_K,5553096.192,fertilizer
+1966,Fertilizer_K,5178901.792,fertilizer
+1967,Fertilizer_K,5537962.929,fertilizer
+1968,Fertilizer_K,5995556.624,fertilizer
+1969,Fertilizer_K,5266795.306,fertilizer
+1970,Fertilizer_K,9849358.296,fertilizer
+1971,Fertilizer_K,10697780.504,fertilizer
+1972,Fertilizer_K,10819045.428,fertilizer
+1973,Fertilizer_K,12837781.138,fertilizer
+1974,Fertilizer_K,14800100.652,fertilizer
+1975,Fertilizer_K,12280930.713,fertilizer
+1976,Fertilizer_K,13464368.858,fertilizer
+1977,Fertilizer_K,14319617.086,fertilizer
+1978,Fertilizer_K,14995711.105,fertilizer
+1979,Fertilizer_K,16672923.829,fertilizer
+1980,Fertilizer_K,16776458.843,fertilizer
+1981,Fertilizer_K,15540321.424,fertilizer
+1982,Fertilizer_K,11899984.665,fertilizer
+1983,Fertilizer_K,14038707.004,fertilizer
+1984,Fertilizer_K,16605124.195,fertilizer
+1985,Fertilizer_K,14262026.053,fertilizer
+1986,Fertilizer_K,7452239.104,fertilizer
+1987,Fertilizer_K,15198921.21,fertilizer
+1988,Fertilizer_K,16801681.184,fertilizer
+1989,Fertilizer_K,14993350.992,fertilizer
+1990,Fertilizer_K,16130323.452,fertilizer
+1991,Fertilizer_K,17150640.411,fertilizer
+1992,Fertilizer_K,16916191.974,fertilizer
+1993,Fertilizer_K,15758890.801,fertilizer
+1994,Fertilizer_K,19663731.766,fertilizer
+1995,Fertilizer_K,19956546.39,fertilizer
+1996,Fertilizer_K,23666394.892,fertilizer
+1997,Fertilizer_K,27044679.792,fertilizer
+1998,Fertilizer_K,31262689.991,fertilizer
+1999,Fertilizer_K,32833756.198,fertilizer
+2000,Fertilizer_K,31856250.533307,fertilizer
+2001,Fertilizer_K,32195522.814348,fertilizer
+2002,Fertilizer_K,32145915.393997,fertilizer
+2003,Fertilizer_K,31629430.859830003,fertilizer
+2004,Fertilizer_K,37568500.4142,fertilizer
+2005,Fertilizer_K,39004837.92648,fertilizer
+2006,Fertilizer_K,35717934.580469005,fertilizer
+2007,Fertilizer_K,43099834.752634,fertilizer
+2008,Fertilizer_K,26613909.236824,fertilizer
+2009,Fertilizer_K,20536695.516078997,fertilizer
+2010,Fertilizer_K,42234009.105361,fertilizer
+2011,Fertilizer_K,43539556.082191996,fertilizer
+2012,Fertilizer_K,39001844.68245,fertilizer
+2013,Fertilizer_K,38429237.685828,fertilizer
+2014,Fertilizer_K,47687518.263976,fertilizer
+2015,Fertilizer_K,48796414.074444,fertilizer
+2016,Fertilizer_K,51540155.007037,fertilizer
+2017,Fertilizer_K,62701521.852284,fertilizer
+2018,Fertilizer_K,53008975.194182,fertilizer
+2019,Fertilizer_K,51105715.829386,fertilizer
+2020,Fertilizer_K,54451330.57289,fertilizer
+2021,Fertilizer_K,44796890.959083,fertilizer
+2022,Fertilizer_K,31436084.594992,fertilizer
+2023,Fertilizer_K,35414510.009252,fertilizer
+2024,Fertilizer_K,34911478.858401,fertilizer
+1962,Fertilizer_N,7504668.268,fertilizer
+1963,Fertilizer_N,9003085.753,fertilizer
+1964,Fertilizer_N,6957494.821,fertilizer
+1965,Fertilizer_N,9008827.919,fertilizer
+1966,Fertilizer_N,8989768.362,fertilizer
+1967,Fertilizer_N,9871681.814,fertilizer
+1968,Fertilizer_N,9412257.968,fertilizer
+1969,Fertilizer_N,8735485.379,fertilizer
+1970,Fertilizer_N,8005930.225,fertilizer
+1971,Fertilizer_N,8121353.311,fertilizer
+1972,Fertilizer_N,10782057.542,fertilizer
+1973,Fertilizer_N,12865367.293,fertilizer
+1974,Fertilizer_N,13982780.122,fertilizer
+1975,Fertilizer_N,12024933.306,fertilizer
+1976,Fertilizer_N,10140217.021,fertilizer
+1977,Fertilizer_N,9774949.614,fertilizer
+1978,Fertilizer_N,14855234.112,fertilizer
+1979,Fertilizer_N,16041265.566,fertilizer
+1980,Fertilizer_N,16069737.294,fertilizer
+1981,Fertilizer_N,14738089.009,fertilizer
+1982,Fertilizer_N,14044142.539,fertilizer
+1983,Fertilizer_N,15478485.272,fertilizer
+1984,Fertilizer_N,17474863.465,fertilizer
+1985,Fertilizer_N,16962368.25,fertilizer
+1986,Fertilizer_N,15889215.46,fertilizer
+1987,Fertilizer_N,18504646.985,fertilizer
+1988,Fertilizer_N,21003132.045,fertilizer
+1989,Fertilizer_N,22361685.236,fertilizer
+1990,Fertilizer_N,24329494.336,fertilizer
+1991,Fertilizer_N,22758214.509,fertilizer
+1992,Fertilizer_N,28362177.27,fertilizer
+1993,Fertilizer_N,27091018.191,fertilizer
+1994,Fertilizer_N,30727652.366,fertilizer
+1995,Fertilizer_N,48412129.776,fertilizer
+1996,Fertilizer_N,45743074.806,fertilizer
+1997,Fertilizer_N,39809137.872,fertilizer
+1998,Fertilizer_N,39281251.956,fertilizer
+1999,Fertilizer_N,40882894.648,fertilizer
+2000,Fertilizer_N,43381446.75289,fertilizer
+2001,Fertilizer_N,39449298.586646006,fertilizer
+2002,Fertilizer_N,40006593.007765,fertilizer
+2003,Fertilizer_N,41767782.799881995,fertilizer
+2004,Fertilizer_N,47373118.240906,fertilizer
+2005,Fertilizer_N,50160766.3526,fertilizer
+2006,Fertilizer_N,50058409.554738,fertilizer
+2007,Fertilizer_N,57208348.946374,fertilizer
+2008,Fertilizer_N,50211342.508101,fertilizer
+2009,Fertilizer_N,52302588.620412,fertilizer
+2010,Fertilizer_N,59960894.673781,fertilizer
+2011,Fertilizer_N,69650585.359058,fertilizer
+2012,Fertilizer_N,73030657.432053,fertilizer
+2013,Fertilizer_N,82293545.356803,fertilizer
+2014,Fertilizer_N,81078858.617321,fertilizer
+2015,Fertilizer_N,83242228.510618,fertilizer
+2016,Fertilizer_N,78419148.29374899,fertilizer
+2017,Fertilizer_N,78499302.34315401,fertilizer
+2018,Fertilizer_N,79382011.145338,fertilizer
+2019,Fertilizer_N,82315306.681851,fertilizer
+2020,Fertilizer_N,83693806.400324,fertilizer
+2021,Fertilizer_N,88094106.837687,fertilizer
+2022,Fertilizer_N,65455137.925583,fertilizer
+2023,Fertilizer_N,64438429.261222,fertilizer
+2024,Fertilizer_N,62569185.64809,fertilizer
+1962,Fertilizer_P,4263018.204,fertilizer
+1963,Fertilizer_P,4364557.336,fertilizer
+1964,Fertilizer_P,5176731.565,fertilizer
+1965,Fertilizer_P,4629148.474,fertilizer
+1966,Fertilizer_P,4700429.632,fertilizer
+1967,Fertilizer_P,4961793.066,fertilizer
+1968,Fertilizer_P,5588164.546,fertilizer
+1969,Fertilizer_P,4632003.519,fertilizer
+1970,Fertilizer_P,4972339.754,fertilizer
+1971,Fertilizer_P,4895741.577,fertilizer
+1972,Fertilizer_P,5791814.819,fertilizer
+1973,Fertilizer_P,5652477.704,fertilizer
+1974,Fertilizer_P,5935648.561,fertilizer
+1975,Fertilizer_P,4573133.629,fertilizer
+1976,Fertilizer_P,4027114.552,fertilizer
+1977,Fertilizer_P,4162677.563,fertilizer
+1978,Fertilizer_P,3891548.884,fertilizer
+1979,Fertilizer_P,4191267.219,fertilizer
+1980,Fertilizer_P,4961215.993,fertilizer
+1981,Fertilizer_P,4485657.438,fertilizer
+1982,Fertilizer_P,3736539.262,fertilizer
+1983,Fertilizer_P,4058678.883,fertilizer
+1984,Fertilizer_P,4125394.237,fertilizer
+1985,Fertilizer_P,4512498.772,fertilizer
+1986,Fertilizer_P,4520004.93,fertilizer
+1987,Fertilizer_P,4601422.623,fertilizer
+1988,Fertilizer_P,5550926.858,fertilizer
+1989,Fertilizer_P,5213251.039,fertilizer
+1990,Fertilizer_P,5926015.084,fertilizer
+1991,Fertilizer_P,5264462.263,fertilizer
+1992,Fertilizer_P,5026398.947,fertilizer
+1993,Fertilizer_P,5003448.854,fertilizer
+1994,Fertilizer_P,4398208.373,fertilizer
+1995,Fertilizer_P,5734332.929,fertilizer
+1996,Fertilizer_P,7979676.467,fertilizer
+1997,Fertilizer_P,13336736.698,fertilizer
+1998,Fertilizer_P,3189152.624,fertilizer
+1999,Fertilizer_P,2931864.966,fertilizer
+2000,Fertilizer_P,3842539.818,fertilizer
+2001,Fertilizer_P,3332162.330771,fertilizer
+2002,Fertilizer_P,3738791.486764,fertilizer
+2003,Fertilizer_P,15846648.95778,fertilizer
+2004,Fertilizer_P,3924066.842,fertilizer
+2005,Fertilizer_P,4169955.118485,fertilizer
+2006,Fertilizer_P,4481554.705658,fertilizer
+2007,Fertilizer_P,6415248.749803,fertilizer
+2008,Fertilizer_P,6557752.727589,fertilizer
+2009,Fertilizer_P,4498528.370983,fertilizer
+2010,Fertilizer_P,4881025.543640001,fertilizer
+2011,Fertilizer_P,5540867.45374,fertilizer
+2012,Fertilizer_P,4667798.066359,fertilizer
+2013,Fertilizer_P,5048167.369784,fertilizer
+2014,Fertilizer_P,5066686.493275,fertilizer
+2015,Fertilizer_P,5319325.758069,fertilizer
+2016,Fertilizer_P,5171983.851365,fertilizer
+2017,Fertilizer_P,4336834.993133,fertilizer
+2018,Fertilizer_P,5662451.533284,fertilizer
+2019,Fertilizer_P,5466205.066880999,fertilizer
+2020,Fertilizer_P,4601381.158159001,fertilizer
+2021,Fertilizer_P,6097002.104678,fertilizer
+2022,Fertilizer_P,4884492.741969,fertilizer
+2023,Fertilizer_P,6909103.2521669995,fertilizer
+2024,Fertilizer_P,10290298.647947,fertilizer
+1961,Maize,13998551,food
+1962,Maize,19906411,food
+1963,Maize,21090095,food
+1964,Maize,22316250,food
+1965,Maize,25021651,food
+1966,Maize,25921327,food
+1967,Maize,27714258,food
+1968,Maize,29018976,food
+1969,Maize,27673438,food
+1970,Maize,29675849,food
+1971,Maize,30962617,food
+1972,Maize,37578944,food
+1973,Maize,48348759,food
+1974,Maize,49749778,food
+1975,Maize,52085174,food
+1976,Maize,62376350,food
+1977,Maize,57762836,food
+1978,Maize,68792037,food
+1979,Maize,76091149,food
+1980,Maize,80303349,food
+1981,Maize,78734869,food
+1982,Maize,69630317,food
+1983,Maize,69137323,food
+1984,Maize,68728558,food
+1985,Maize,69959743,food
+1986,Maize,57695742,food
+1987,Maize,64716255,food
+1988,Maize,66527791,food
+1989,Maize,77455888,food
+1990,Maize,72080321,food
+1991,Maize,66198723,food
+1992,Maize,73892057,food
+1993,Maize,67862688,food
+1994,Maize,65193387.28,food
+1995,Maize,78315854.32,food
+1996,Maize,71835191.66,food
+1997,Maize,73203624.67,food
+1998,Maize,76155387.48,food
+1999,Maize,78833045.63000001,food
+2000,Maize,82435890.45,food
+2001,Maize,83895510.3,food
+2002,Maize,87548450.75,food
+2003,Maize,90815373.06,food
+2004,Maize,82786746.85,food
+2005,Maize,90612947.46,food
+2006,Maize,95575449.15,food
+2007,Maize,110129638.53,food
+2008,Maize,102221716.79,food
+2009,Maize,100442628.66,food
+2010,Maize,108869901.02,food
+2011,Maize,110115119.57,food
+2012,Maize,120592866.75,food
+2013,Maize,124338391.22,food
+2014,Maize,142939056.01000002,food
+2015,Maize,148399587.86999995,food
+2016,Maize,153984448.36,food
+2017,Maize,161712654.42999998,food
+2018,Maize,173726306.33,food
+2019,Maize,191828426.87,food
+2020,Maize,193063783.06,food
+2021,Maize,197036575.61,food
+2022,Maize,210420875.38,food
+2023,Maize,198468623.06,food
+2024,Maize,202869645.65,food
+1961,Oils,2581072,food
+1962,Oils,3053725,food
+1963,Oils,3123176,food
+1964,Oils,3404129,food
+1965,Oils,3291660,food
+1966,Oils,3610207,food
+1967,Oils,3899639,food
+1968,Oils,4286029,food
+1969,Oils,4395654,food
+1970,Oils,4780974,food
+1971,Oils,5495799,food
+1972,Oils,5862170,food
+1973,Oils,6018616,food
+1974,Oils,6554308,food
+1975,Oils,6843845,food
+1976,Oils,7999339,food
+1977,Oils,8603756,food
+1978,Oils,9270321,food
+1979,Oils,10218561,food
+1980,Oils,11704427,food
+1981,Oils,11851740,food
+1982,Oils,12458513,food
+1983,Oils,13452590,food
+1984,Oils,13951251,food
+1985,Oils,15192388,food
+1986,Oils,16461689,food
+1987,Oils,17136612,food
+1988,Oils,17526014,food
+1989,Oils,18397249,food
+1990,Oils,20113083,food
+1991,Oils,19888602,food
+1992,Oils,20602623,food
+1993,Oils,20750463,food
+1994,Oils,25043508.27,food
+1995,Oils,26736241.99,food
+1996,Oils,25635754.35,food
+1997,Oils,30960760.56,food
+1998,Oils,29508571.57,food
+1999,Oils,32318439.12,food
+2000,Oils,32690886.95,food
+2001,Oils,36186341.15,food
+2002,Oils,38369867.55,food
+2003,Oils,41871502.79,food
+2004,Oils,44546232.78,food
+2005,Oils,50310549.25,food
+2006,Oils,56332170.1,food
+2007,Oils,53478996.18,food
+2008,Oils,59266186.8,food
+2009,Oils,61228593.39,food
+2010,Oils,63536399.419999994,food
+2011,Oils,66032919.26,food
+2012,Oils,70958756.77,food
+2013,Oils,73721522.81,food
+2014,Oils,76948316.54,food
+2015,Oils,83340329.37,food
+2016,Oils,80051243.14999999,food
+2017,Oils,86193049.42,food
+2018,Oils,86502171.47,food
+2019,Oils,90807047.38,food
+2020,Oils,91808032.06,food
+2021,Oils,88900495.21000001,food
+2022,Oils,89164070.00999999,food
+2023,Oils,92355298.99,food
+2024,Oils,91466603.79,food
+1961,Pork,877681,food
+1962,Pork,898719,food
+1963,Pork,987188,food
+1964,Pork,1139960,food
+1965,Pork,1386754,food
+1966,Pork,1323112,food
+1967,Pork,1266055,food
+1968,Pork,1359496,food
+1969,Pork,1315306,food
+1970,Pork,1472752,food
+1971,Pork,1743014,food
+1972,Pork,1824202,food
+1973,Pork,1857858,food
+1974,Pork,1755442,food
+1975,Pork,1774449,food
+1976,Pork,1868359,food
+1977,Pork,1912475,food
+1978,Pork,1961210,food
+1979,Pork,2155194,food
+1980,Pork,2303952,food
+1981,Pork,2434712,food
+1982,Pork,2508021,food
+1983,Pork,2703192,food
+1984,Pork,2889505,food
+1985,Pork,3096032,food
+1986,Pork,3192021,food
+1987,Pork,3379822,food
+1988,Pork,3542376,food
+1989,Pork,3580802,food
+1990,Pork,3743185,food
+1991,Pork,3960945,food
+1992,Pork,3860647,food
+1993,Pork,4028361,food
+1994,Pork,4668594,food
+1995,Pork,4648215,food
+1996,Pork,4936917,food
+1997,Pork,4977223.15,food
+1998,Pork,5336256.890000001,food
+1999,Pork,6122126.73,food
+2000,Pork,5969693.96,food
+2001,Pork,6118735.72,food
+2002,Pork,6713105.7,food
+2003,Pork,7374126.98,food
+2004,Pork,8114762.97,food
+2005,Pork,8620985.01,food
+2006,Pork,8950014.06,food
+2007,Pork,9489071.59,food
+2008,Pork,10591245.55,food
+2009,Pork,10358874.73,food
+2010,Pork,10900164.55,food
+2011,Pork,11744030.27,food
+2012,Pork,11825210.57,food
+2013,Pork,11716597.01,food
+2014,Pork,11838196.62,food
+2015,Pork,12252803.38,food
+2016,Pork,12960051.38,food
+2017,Pork,13177188.65,food
+2018,Pork,13183767.16,food
+2019,Pork,13701187.87,food
+2020,Pork,15172911.37,food
+2021,Pork,15338704.93,food
+2022,Pork,14107158.53,food
+2023,Pork,13183935.9,food
+2024,Pork,13608360.41,food
+1961,Potatoes,2767754,food
+1962,Potatoes,3379343,food
+1963,Potatoes,2947972,food
+1964,Potatoes,3634385,food
+1965,Potatoes,3789079,food
+1966,Potatoes,3576264,food
+1967,Potatoes,3388983,food
+1968,Potatoes,3432759,food
+1969,Potatoes,3619317,food
+1970,Potatoes,3816649,food
+1971,Potatoes,3290769,food
+1972,Potatoes,5163969,food
+1973,Potatoes,3957821,food
+1974,Potatoes,3940166,food
+1975,Potatoes,3990841,food
+1976,Potatoes,4537274,food
+1977,Potatoes,4792798,food
+1978,Potatoes,4152073,food
+1979,Potatoes,4878344,food
+1980,Potatoes,5227485,food
+1981,Potatoes,5317186,food
+1982,Potatoes,5649611,food
+1983,Potatoes,5285473,food
+1984,Potatoes,5329104,food
+1985,Potatoes,5643081,food
+1986,Potatoes,6210884,food
+1987,Potatoes,7095333,food
+1988,Potatoes,7446785,food
+1989,Potatoes,7810899,food
+1990,Potatoes,8087797,food
+1991,Potatoes,9154242,food
+1992,Potatoes,9378319,food
+1993,Potatoes,9143641,food
+1994,Potatoes,9873803.54,food
+1995,Potatoes,9413233.32,food
+1996,Potatoes,9573794.15,food
+1997,Potatoes,9570116.08,food
+1998,Potatoes,10780635.32,food
+1999,Potatoes,11033416.99,food
+2000,Potatoes,11111708.18,food
+2001,Potatoes,11761261.13,food
+2002,Potatoes,12016095.05,food
+2003,Potatoes,13316253.37,food
+2004,Potatoes,13594937.67,food
+2005,Potatoes,13621106.31,food
+2006,Potatoes,14757520.38,food
+2007,Potatoes,15784092.43,food
+2008,Potatoes,15757456.74,food
+2009,Potatoes,15897090.79,food
+2010,Potatoes,17567572.16,food
+2011,Potatoes,18783886.43,food
+2012,Potatoes,17846096.89,food
+2013,Potatoes,18986648.37,food
+2014,Potatoes,19248199.69,food
+2015,Potatoes,19480657.57,food
+2016,Potatoes,20358640.35,food
+2017,Potatoes,22218882.4,food
+2018,Potatoes,22443152.06,food
+2019,Potatoes,23988347.89,food
+2020,Potatoes,22996080.82,food
+2021,Potatoes,23821215.05,food
+2022,Potatoes,26238099.47,food
+2023,Potatoes,26370949.81,food
+2024,Potatoes,28081200.3,food
+1961,Rapeseed,469523,food
+1962,Rapeseed,592413,food
+1963,Rapeseed,559261,food
+1964,Rapeseed,608466,food
+1965,Rapeseed,835288,food
+1966,Rapeseed,1015251,food
+1967,Rapeseed,956795,food
+1968,Rapeseed,1088678,food
+1969,Rapeseed,1161885,food
+1970,Rapeseed,1278035,food
+1971,Rapeseed,2141655,food
+1972,Rapeseed,2037562,food
+1973,Rapeseed,2080816,food
+1974,Rapeseed,1678039,food
+1975,Rapeseed,1336134,food
+1976,Rapeseed,1779708,food
+1977,Rapeseed,1979367,food
+1978,Rapeseed,2096446,food
+1979,Rapeseed,3067124,food
+1980,Rapeseed,2633251,food
+1981,Rapeseed,3159224,food
+1982,Rapeseed,3048982,food
+1983,Rapeseed,3580351,food
+1984,Rapeseed,3953899,food
+1985,Rapeseed,4942319,food
+1986,Rapeseed,5875640,food
+1987,Rapeseed,6635480,food
+1988,Rapeseed,6745380,food
+1989,Rapeseed,7155655,food
+1990,Rapeseed,7085865,food
+1991,Rapeseed,7724736,food
+1992,Rapeseed,8028978,food
+1993,Rapeseed,8458372,food
+1994,Rapeseed,9370830,food
+1995,Rapeseed,9563233,food
+1996,Rapeseed,10678077,food
+1997,Rapeseed,10856175,food
+1998,Rapeseed,13224406,food
+1999,Rapeseed,14460375.19,food
+2000,Rapeseed,14145362.72,food
+2001,Rapeseed,13246194.22,food
+2002,Rapeseed,11228406.22,food
+2003,Rapeseed,10955374.03,food
+2004,Rapeseed,13401447.97,food
+2005,Rapeseed,14254608.7,food
+2006,Rapeseed,17017007.58,food
+2007,Rapeseed,19094400.47,food
+2008,Rapeseed,24081287.85,food
+2009,Rapeseed,24927865.32,food
+2010,Rapeseed,25409763.66,food
+2011,Rapeseed,26603569.94,food
+2012,Rapeseed,29638393.14,food
+2013,Rapeseed,31815418.79,food
+2014,Rapeseed,34400153.78,food
+2015,Rapeseed,32019645.56,food
+2016,Rapeseed,32662924.79,food
+2017,Rapeseed,36342337.35,food
+2018,Rapeseed,34778697.87,food
+2019,Rapeseed,32872000.869999997,food
+2020,Rapeseed,38321681.23,food
+2021,Rapeseed,36009576.5,food
+2022,Rapeseed,35031093.26,food
+2023,Rapeseed,42047957.9,food
+2024,Rapeseed,41286810.35,food
+1961,Raw sugar,19739447,food
+1962,Raw sugar,17823667,food
+1963,Raw sugar,17039752,food
+1964,Raw sugar,16406721,food
+1965,Raw sugar,18341402,food
+1966,Raw sugar,17947283,food
+1967,Raw sugar,19511476,food
+1968,Raw sugar,19512177,food
+1969,Raw sugar,18695396,food
+1970,Raw sugar,21069500,food
+1971,Raw sugar,20702252,food
+1972,Raw sugar,21511442,food
+1973,Raw sugar,22433289,food
+1974,Raw sugar,22746152,food
+1975,Raw sugar,21372634,food
+1976,Raw sugar,22453892,food
+1977,Raw sugar,28174079,food
+1978,Raw sugar,25363428,food
+1979,Raw sugar,25828055,food
+1980,Raw sugar,26592721,food
+1981,Raw sugar,28377576,food
+1982,Raw sugar,29718525,food
+1983,Raw sugar,28509279,food
+1984,Raw sugar,27749888,food
+1985,Raw sugar,27705424,food
+1986,Raw sugar,27116593,food
+1987,Raw sugar,27951289,food
+1988,Raw sugar,28402579,food
+1989,Raw sugar,29308890,food
+1990,Raw sugar,28846724,food
+1991,Raw sugar,28746954,food
+1992,Raw sugar,31298080,food
+1993,Raw sugar,28991249,food
+1994,Raw sugar,29493857.64,food
+1995,Raw sugar,34473243.5,food
+1996,Raw sugar,35886510.519999996,food
+1997,Raw sugar,37327891.77,food
+1998,Raw sugar,38445515.63,food
+1999,Raw sugar,41274891.6,food
+2000,Raw sugar,38571281.92,food
+2001,Raw sugar,41303818.39,food
+2002,Raw sugar,44136582.58,food
+2003,Raw sugar,42794980.57,food
+2004,Raw sugar,45042861.07,food
+2005,Raw sugar,48987127.94,food
+2006,Raw sugar,51143323.96,food
+2007,Raw sugar,51292407.94,food
+2008,Raw sugar,49083203.89,food
+2009,Raw sugar,52548081.94,food
+2010,Raw sugar,59916014.06,food
+2011,Raw sugar,58019164.02,food
+2012,Raw sugar,58484032.93,food
+2013,Raw sugar,63123722.690000005,food
+2014,Raw sugar,60833595.71,food
+2015,Raw sugar,63704811.63,food
+2016,Raw sugar,68883346.42999999,food
+2017,Raw sugar,69348071.06,food
+2018,Raw sugar,66387088,food
+2019,Raw sugar,63036978.260000005,food
+2020,Raw sugar,73202613.17,food
+2021,Raw sugar,67821344.16,food
+2022,Raw sugar,73104492.13,food
+2023,Raw sugar,72734962.3,food
+2024,Raw sugar,75819878.5,food
+1961,Rice,12756269.7,food
+1962,Rice,13571798.85,food
+1963,Rice,16084974.35,food
+1964,Rice,16836547.05,food
+1965,Rice,16803290.05,food
+1966,Rice,16384322.05,food
+1967,Rice,16279546.35,food
+1968,Rice,15181148,food
+1969,Rice,15847309.8,food
+1970,Rice,16853942.15,food
+1971,Rice,17323617.75,food
+1972,Rice,17153159.7,food
+1973,Rice,17091915.35,food
+1974,Rice,16585053,food
+1975,Rice,15411712.95,food
+1976,Rice,17814605.85,food
+1977,Rice,21702912.6,food
+1978,Rice,19197832.25,food
+1979,Rice,22949486.85,food
+1980,Rice,25805001.2,food
+1981,Rice,26237385.9,food
+1982,Rice,24086633.05,food
+1983,Rice,23023839.3,food
+1984,Rice,25541743.6,food
+1985,Rice,23186127.75,food
+1986,Rice,26865321.1,food
+1987,Rice,26195117.75,food
+1988,Rice,24471629.4,food
+1989,Rice,30394613.6,food
+1990,Rice,24989780.95,food
+1991,Rice,26324335.65,food
+1992,Rice,32072653.45,food
+1993,Rice,33543144.9,food
+1994,Rice,35863887.2,food
+1995,Rice,44935828.4,food
+1996,Rice,39564664.34,food
+1997,Rice,42192068.57,food
+1998,Rice,58263311.15,food
+1999,Rice,50884931.35,food
+2000,Rice,47461219.83,food
+2001,Rice,54148929.64,food
+2002,Rice,56009329.05,food
+2003,Rice,56633798.42,food
+2004,Rice,58489503.06,food
+2005,Rice,59783804.49,food
+2006,Rice,62114056.73,food
+2007,Rice,67914069.67999999,food
+2008,Rice,61060823.33,food
+2009,Rice,61297594.07,food
+2010,Rice,68120317.82000001,food
+2011,Rice,75956947.75,food
+2012,Rice,80851216.25,food
+2013,Rice,81866700.23,food
+2014,Rice,89258950.16,food
+2015,Rice,87772693.97999999,food
+2016,Rice,81720761.27,food
+2017,Rice,95388846.02,food
+2018,Rice,93727369.07,food
+2019,Rice,87513646.56,food
+2020,Rice,92761874.17,food
+2021,Rice,105983981.28,food
+2022,Rice,116043406.57,food
+2023,Rice,109526864.9,food
+2024,Rice,123157103.82,food
+1961,Sorghum,2281748,food
+1962,Sorghum,3713006,food
+1963,Sorghum,3935596,food
+1964,Sorghum,3613199,food
+1965,Sorghum,5299695,food
+1966,Sorghum,8822132,food
+1967,Sorghum,7314195,food
+1968,Sorghum,4801960,food
+1969,Sorghum,4406613,food
+1970,Sorghum,6209332,food
+1971,Sorghum,6221818,food
+1972,Sorghum,6168687,food
+1973,Sorghum,9049715,food
+1974,Sorghum,10799650,food
+1975,Sorghum,10155705,food
+1976,Sorghum,11161661,food
+1977,Sorghum,11937028,food
+1978,Sorghum,10923386,food
+1979,Sorghum,11364752,food
+1980,Sorghum,11179386,food
+1981,Sorghum,14476589,food
+1982,Sorghum,13730145,food
+1983,Sorghum,11740932,food
+1984,Sorghum,12437599,food
+1985,Sorghum,13343848,food
+1986,Sorghum,8563327,food
+1987,Sorghum,7949512,food
+1988,Sorghum,9285179,food
+1989,Sorghum,10624112,food
+1990,Sorghum,8864493,food
+1991,Sorghum,8239451,food
+1992,Sorghum,9949339,food
+1993,Sorghum,8669874,food
+1994,Sorghum,7530899.64,food
+1995,Sorghum,6660687.45,food
+1996,Sorghum,6534540.86,food
+1997,Sorghum,6429196.37,food
+1998,Sorghum,6936418,food
+1999,Sorghum,7448048.01,food
+2000,Sorghum,8498142.39,food
+2001,Sorghum,7729022.64,food
+2002,Sorghum,6684294.33,food
+2003,Sorghum,6369191.15,food
+2004,Sorghum,5786589.07,food
+2005,Sorghum,5451927.65,food
+2006,Sorghum,5370286.13,food
+2007,Sorghum,7820340.83,food
+2008,Sorghum,8019690.13,food
+2009,Sorghum,6507546.89,food
+2010,Sorghum,6318312.78,food
+2011,Sorghum,6274657.45,food
+2012,Sorghum,6516221,food
+2013,Sorghum,6403414.55,food
+2014,Sorghum,9415951.53,food
+2015,Sorghum,13239185.93,food
+2016,Sorghum,8841480.53,food
+2017,Sorghum,7615245.08,food
+2018,Sorghum,5566972.6,food
+2019,Sorghum,3968015.82,food
+2020,Sorghum,7915541.66,food
+2021,Sorghum,10951783.66,food
+2022,Sorghum,10735202.21,food
+2023,Sorghum,8137420.66,food
+2024,Sorghum,9556609.13,food
+1961,Soybeans,5362712,food
+1962,Soybeans,6645444,food
+1963,Soybeans,7283441,food
+1964,Soybeans,8636681,food
+1965,Soybeans,9823668,food
+1966,Soybeans,10682438,food
+1967,Soybeans,11566621,food
+1968,Soybeans,12571881,food
+1969,Soybeans,13596842,food
+1970,Soybeans,18050512,food
+1971,Soybeans,18616080,food
+1972,Soybeans,20412271,food
+1973,Soybeans,23775251,food
+1974,Soybeans,26518730,food
+1975,Soybeans,25450853,food
+1976,Soybeans,31161194,food
+1977,Soybeans,31802410,food
+1978,Soybeans,38676181,food
+1979,Soybeans,40451253,food
+1980,Soybeans,44702231,food
+1981,Soybeans,46374054,food
+1982,Soybeans,49033514,food
+1983,Soybeans,49491235,food
+1984,Soybeans,46213764,food
+1985,Soybeans,48207873,food
+1986,Soybeans,50097831,food
+1987,Soybeans,54069328,food
+1988,Soybeans,53009895,food
+1989,Soybeans,49408313,food
+1990,Soybeans,52128829,food
+1991,Soybeans,53973452,food
+1992,Soybeans,57545079,food
+1993,Soybeans,57551554,food
+1994,Soybeans,59726797,food
+1995,Soybeans,63949728.06,food
+1996,Soybeans,66108895.42,food
+1997,Soybeans,72838613.22,food
+1998,Soybeans,76911635.53,food
+1999,Soybeans,79286081.47999999,food
+2000,Soybeans,84666573.03,food
+2001,Soybeans,100404115.26,food
+2002,Soybeans,100127281.89,food
+2003,Soybeans,115050367.56,food
+2004,Soybeans,106728425.67,food
+2005,Soybeans,121716926,food
+2006,Soybeans,126123278.02,food
+2007,Soybeans,135704811,food
+2008,Soybeans,137986301.14,food
+2009,Soybeans,138330830.51999998,food
+2010,Soybeans,162299414.69,food
+2011,Soybeans,155867668.11,food
+2012,Soybeans,157095205.95999998,food
+2013,Soybeans,168362874.96,food
+2014,Soybeans,182373988.76,food
+2015,Soybeans,198311029.6,food
+2016,Soybeans,204470467.83,food
+2017,Soybeans,218219929.43,food
+2018,Soybeans,220024531.92,food
+2019,Soybeans,226409560.4,food
+2020,Soybeans,239797401,food
+2021,Soybeans,223406067.3,food
+2022,Soybeans,227434846.78000003,food
+2023,Soybeans,239955645.58,food
+2024,Soybeans,248887965.24,food
+1961,Starch,18099,food
+1962,Starch,18250,food
+1963,Starch,12545,food
+1964,Starch,32724,food
+1965,Starch,40562,food
+1966,Starch,26738,food
+1967,Starch,22996,food
+1968,Starch,28712,food
+1969,Starch,23800,food
+1970,Starch,11851,food
+1971,Starch,27784,food
+1972,Starch,36329,food
+1973,Starch,43221,food
+1974,Starch,67938,food
+1975,Starch,40681,food
+1976,Starch,38735,food
+1977,Starch,33911,food
+1978,Starch,39024,food
+1979,Starch,52115,food
+1980,Starch,40653,food
+1981,Starch,48894,food
+1982,Starch,59858,food
+1983,Starch,53777,food
+1984,Starch,74127,food
+1985,Starch,137919,food
+1986,Starch,140679,food
+1987,Starch,193541,food
+1988,Starch,289575,food
+1989,Starch,269862,food
+1990,Starch,333224,food
+1991,Starch,376925,food
+1992,Starch,433765,food
+1993,Starch,391998,food
+1994,Starch,551587.3,food
+1995,Starch,590521,food
+1996,Starch,611646,food
+1997,Starch,829885.2,food
+1998,Starch,619040.3,food
+1999,Starch,780420.68,food
+2000,Starch,1073486.97,food
+2001,Starch,935566.66,food
+2002,Starch,952940.55,food
+2003,Starch,1252377.59,food
+2004,Starch,1455873.67,food
+2005,Starch,1648601.31,food
+2006,Starch,1858660.44,food
+2007,Starch,1684350.89,food
+2008,Starch,1464069.94,food
+2009,Starch,2363432.64,food
+2010,Starch,2140518.44,food
+2011,Starch,2608926.56,food
+2012,Starch,3128882.04,food
+2013,Starch,3145156.98,food
+2014,Starch,5193516.72,food
+2015,Starch,5575402.18,food
+2016,Starch,5809622.12,food
+2017,Starch,5745220.0600000005,food
+2018,Starch,4964476.18,food
+2019,Starch,5172206.42,food
+2020,Starch,5250488.15,food
+2021,Starch,6315839.15,food
+2022,Starch,6667144.2299999995,food
+2023,Starch,5704864.49,food
+2024,Starch,5602999.11,food
+1961,Sweet potatoes,7161,food
+1962,Sweet potatoes,8889,food
+1963,Sweet potatoes,6016,food
+1964,Sweet potatoes,6022,food
+1965,Sweet potatoes,5590,food
+1966,Sweet potatoes,11520,food
+1967,Sweet potatoes,11161,food
+1968,Sweet potatoes,11867,food
+1969,Sweet potatoes,12826,food
+1970,Sweet potatoes,14685,food
+1971,Sweet potatoes,32582,food
+1972,Sweet potatoes,45930,food
+1973,Sweet potatoes,28175,food
+1974,Sweet potatoes,16591,food
+1975,Sweet potatoes,22551,food
+1976,Sweet potatoes,23412,food
+1977,Sweet potatoes,20340,food
+1978,Sweet potatoes,29220,food
+1979,Sweet potatoes,25589,food
+1980,Sweet potatoes,64238,food
+1981,Sweet potatoes,33692,food
+1982,Sweet potatoes,75264,food
+1983,Sweet potatoes,160222,food
+1984,Sweet potatoes,121986,food
+1985,Sweet potatoes,394164,food
+1986,Sweet potatoes,581569,food
+1987,Sweet potatoes,626019,food
+1988,Sweet potatoes,637496,food
+1989,Sweet potatoes,336253,food
+1990,Sweet potatoes,370443,food
+1991,Sweet potatoes,800750,food
+1992,Sweet potatoes,651220,food
+1993,Sweet potatoes,472203,food
+1994,Sweet potatoes,720943.56,food
+1995,Sweet potatoes,128254.47,food
+1996,Sweet potatoes,66653,food
+1997,Sweet potatoes,62146.31,food
+1998,Sweet potatoes,66155.58,food
+1999,Sweet potatoes,75959.09,food
+2000,Sweet potatoes,82807.11,food
+2001,Sweet potatoes,87981.63,food
+2002,Sweet potatoes,91069.64,food
+2003,Sweet potatoes,94152.13,food
+2004,Sweet potatoes,112784.91,food
+2005,Sweet potatoes,128553.21,food
+2006,Sweet potatoes,135748.38,food
+2007,Sweet potatoes,152242.78,food
+2008,Sweet potatoes,175681.21,food
+2009,Sweet potatoes,203239.4,food
+2010,Sweet potatoes,216614.1,food
+2011,Sweet potatoes,240916.99,food
+2012,Sweet potatoes,254860.43,food
+2013,Sweet potatoes,270619.79,food
+2014,Sweet potatoes,367207.49,food
+2015,Sweet potatoes,424766.85,food
+2016,Sweet potatoes,580746.42,food
+2017,Sweet potatoes,725476.17,food
+2018,Sweet potatoes,768154.69,food
+2019,Sweet potatoes,979925.82,food
+2020,Sweet potatoes,887439.59,food
+2021,Sweet potatoes,876068.5,food
+2022,Sweet potatoes,907347.04,food
+2023,Sweet potatoes,957900.52,food
+2024,Sweet potatoes,935058.72,food
+1961,Wheat,44381235,food
+1962,Wheat,43046681,food
+1963,Wheat,47774354,food
+1964,Wheat,57264056,food
+1965,Wheat,54701291,food
+1966,Wheat,61021805,food
+1967,Wheat,51214929,food
+1968,Wheat,51620782,food
+1969,Wheat,46924615,food
+1970,Wheat,55183269,food
+1971,Wheat,56726438,food
+1972,Wheat,63407468,food
+1973,Wheat,79821187,food
+1974,Wheat,63613862,food
+1975,Wheat,71973904,food
+1976,Wheat,67201609,food
+1977,Wheat,72262464,food
+1978,Wheat,82326856,food
+1979,Wheat,78781218,food
+1980,Wheat,96965434,food
+1981,Wheat,102886802,food
+1982,Wheat,102198898,food
+1983,Wheat,109222634,food
+1984,Wheat,113689835,food
+1985,Wheat,102466264,food
+1986,Wheat,93795367,food
+1987,Wheat,107852106,food
+1988,Wheat,116486904,food
+1989,Wheat,104585884,food
+1990,Wheat,105538680,food
+1991,Wheat,116867918,food
+1992,Wheat,122861952,food
+1993,Wheat,116001505,food
+1994,Wheat,113080575.12,food
+1995,Wheat,112089443.06,food
+1996,Wheat,109495807.64,food
+1997,Wheat,117331549.5,food
+1998,Wheat,118156253.57,food
+1999,Wheat,123253359.89,food
+2000,Wheat,126243037.54,food
+2001,Wheat,122081439.6,food
+2002,Wheat,129083249.09,food
+2003,Wheat,118397858.73,food
+2004,Wheat,126807981.43,food
+2005,Wheat,130463251,food
+2006,Wheat,135941896.55,food
+2007,Wheat,135472680.1,food
+2008,Wheat,142064061.66,food
+2009,Wheat,158325202.17999998,food
+2010,Wheat,157160303.27,food
+2011,Wheat,161501310.1,food
+2012,Wheat,177706832.14000002,food
+2013,Wheat,175104174.52,food
+2014,Wheat,186574096.81,food
+2015,Wheat,184860029.6,food
+2016,Wheat,205118736.12,food
+2017,Wheat,212153064.29,food
+2018,Wheat,206232530.91,food
+2019,Wheat,201440406.55,food
+2020,Wheat,212520823.89,food
+2021,Wheat,214905380.92,food
+2022,Wheat,205602643.04,food
+2023,Wheat,216960266.93,food
+2024,Wheat,218165125.54,food
